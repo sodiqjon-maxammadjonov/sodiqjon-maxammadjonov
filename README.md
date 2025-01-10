@@ -34,9 +34,9 @@ I am an experienced Flutter developer passionate about building mobile and deskt
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhammadsodikh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 How to Reach Me
-- 📧 Email: [mukhammadsodikh@example.com](mailto:mukhammadsodikh@example.com)
+- 📧 Email: [sodiqjonmaxammadjonov83@gmail.com](mailto:mukhammadsodikh@example.com)
 - 💼 LinkedIn: [linkedin.com/in/mukhammadsodikh](https://linkedin.com/in/mukhammadsodikh)
-- 🌐 Website: [mukhammadsodikh.com](https://mukhammadsodikh.com)
+- 🌐 Website: [mukhammadsodikh.com](https://about-muxammadsodiq.netlify.app)
 
 ## 🎯 Future Plans
 - 🚀 Enhance user experience and optimize apps for better performance.
