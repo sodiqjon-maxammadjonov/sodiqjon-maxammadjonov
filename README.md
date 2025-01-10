@@ -1,62 +1,54 @@
-# Hi, I'm [Sodiqjon]! 👋
+# 👋 Salom, men Mukhammad Sodikh!
 
-**Flutter Developer | Clean Code Enthusiast | Clean Architecture Advocate**
+Men Flutter dasturlash tilida tajribali dasturchiman va ilovalar yaratish bo'yicha keng qamrovli bilimlarga egaman. Hozirda mobil va desktop ilovalarini ishlab chiqish bilan shug'ullanmoqdaman va turli texnologiyalarni o'zlashtirishga qiziqaman.
 
----
+## 💻 Ishlab chiqqan loyihalar
+### 🕹️ [Flutter Music Player](https://github.com/mukhammadsodikh/flutter-music-player)
+- 🎧 Mobil va desktop uchun musiqiy ilova yaratdim, foydalanuvchilar musiqa kutubxonasidan oson foydalanishlari mumkin.
+- 🎶 Audio fayllarni qo'llab-quvvatlash va shaxsiy musiqalar ro'yxatini yaratish.
+- 🎛️ **GetX** orqali holatni boshqarish.
 
-<p align="center">
-  <img src="[Your image or git avatar]" alt="Your Picture" width="150" style="border-radius: 50%;">
-</p>
+### 🖼️ [Wallpaper App](https://github.com/mukhammadsodikh/flutter-wallpaper-app)
+- 📱 Foydalanuvchilarga turli xil yuqori sifatli fon rasmlarini topish va o'rnatish imkonini beradigan ilova.
+- 🖼️ **wallpaper** paketidan foydalanib, foydalanuvchilarga o'z rasmlarini o'rnatish imkoniyati.
+- 🌍 Kengaytirilgan dizayn va intuitiv interfeys.
 
-I'm a passionate Flutter developer with a strong commitment to building user-friendly and efficient mobile applications. I strive to write clean, maintainable code and adhere to clean architecture principles to create high-quality and reliable software.
+### 🔑 [POS System](https://github.com/mukhammadsodikh/flutter-pos-system)
+- 🛒 Desktop ilovasi, CEO, ombor menejeri va sotuvchi rollari uchun moslashtirilgan.
+- 💼 Inventarizatsiyani boshqarish va foydalanuvchi rollari bo'yicha ma'lumotlarni taqdim etish.
 
-## 🚀 My Experience
+### 🌍 [Translator App](https://github.com/mukhammadsodikh/flutter-translator-app)
+- 🌐 Zamonaviy UI yordamida turli tillar o'rtasida tarjima qilish imkoniyatini taqdim etadi.
+- 🗣️ **Google Translate API** bilan integratsiya.
+- ⚡ Eng yaxshi ishlash tezligi va foydalanuvchi tajribasi.
 
-*   **Flutter Framework:** Proficient in using the Flutter SDK and its capabilities.
-*   **Clean Code:** Dedicated to writing readable and well-structured code that follows best practices.
-*   **Clean Architecture:** Experienced in applying clean architecture principles to decouple layers, improve testability, and ensure scalability.
-*   **State Management:** Skilled in using various state management solutions such as BLoC, Provider, Riverpod, and others.
-*   **UI/UX:** Focused on delivering engaging and interactive UI designs with attention to user experience.
-*   **Testing:** Committed to writing comprehensive unit, widget, and integration tests to ensure software quality.
-*   **Git:** Actively use Git for version control and collaboration.
+## 🛠️ Texnologiyalar va Asboblar
+- **Flutter**: Mobil va desktop ilovalarini yaratishda foydalanaman.
+- **Dart**: Flutter ilovalarida asosiy dasturlash tili.
+- **Firebase**: Autentifikatsiya, real-time ma'lumotlar va boshqa xususiyatlar uchun.
+- **GetX**, **Provider**: Holatni boshqarish va navigatsiyani osonlashtirish.
+- **SQLite**: Mahalliy ma'lumotlar bazasi.
 
-## 🛠️ Technical Skills
+## 📈 Statistika
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhammadsodikh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-*   **Programming Languages:** Dart
-*   **Frameworks:** Flutter
-*   **Architecture:** Clean Architecture, MVVM, MVC
-*   **State Management:** BLoC, Provider, Riverpod, GetX
-*   **Testing:** Unit Tests, Widget Tests, Integration Tests
-*   **Others:** REST API, Firebase, Git
+## 📫 Mening bilan bog'lanish
+- 📧 Email: [mukhammadsodikh@example.com](mailto:mukhammadsodikh@example.com)
+- 💼 LinkedIn: [linkedin.com/in/mukhammadsodikh](https://linkedin.com/in/mukhammadsodikh)
+- 🌐 Website: [mukhammadsodikh.com](https://mukhammadsodikh.com)
 
-## 📚 My Projects
+## 🎯 Kelajakdagi rejalari
+- 🚀 Foydalanuvchi tajribasini yaxshilash va ilovalarni optimallashtirish.
+- 🧠 Sun'iy intellekt va mashinaviy o'qitishni Flutter ilovalarida qo'llash.
+- 🔒 Xavfsizlikni ta'minlash va ma'lumotlarni himoya qilish.
 
-Feel free to explore my projects on my GitHub profile. Here are some notable ones:
-
-*   **[Project 1 Name]([Project 1 github link])**: [Brief project description, what it does, and the technologies used]
-*   **[Project 2 Name]([Project 2 github link])**: [Brief project description, what it does, and the technologies used]
-*   **[Project 3 Name]([Project 3 github link])**: [Brief project description, what it does, and the technologies used]
-
-*And more projects...*
-
-## 🤝 Let's Connect
-
-*   **Email:** [Your Email Address]
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Twitter:** [Your Twitter Profile Link]
-
-## ✨ Future Goals
-
-*   Continuously enhance my skills and knowledge in software development
-*   Contribute to open-source projects
-*   Develop and launch my own mobile applications
-
-## 🔥 Ready to Collaborate?
-
-If you need a Flutter developer or are interested in collaborating, please don't hesitate to reach out!
+## 🎉 Qiziqarli faktlar
+- 💡 Har doim yangi texnologiyalarni o'rganishga qiziqaman.
+- 📚 Kitoblar va podkastlarga katta qiziqishim bor.
+- 🎮 Dasturlashdan tashqari, video o'yinlar o'ynashni yoqtiraman.
 
 ---
 
-<p align="center">
-    <i>Thanks for visiting my profile!</i>
-</p>
+> "Dasturlash – bu faqat kod yozish emas, balki muammolarni hal qilish san'ati."  
+> — Mukhammad Sodikh
+
