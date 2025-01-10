@@ -1,54 +1,54 @@
-# 👋 Salom, men Mukhammad Sodikh!
+# 👋 Hi, I'm Mukhammad Sodikh!
 
-Men Flutter dasturlash tilida tajribali dasturchiman va ilovalar yaratish bo'yicha keng qamrovli bilimlarga egaman. Hozirda mobil va desktop ilovalarini ishlab chiqish bilan shug'ullanmoqdaman va turli texnologiyalarni o'zlashtirishga qiziqaman.
+I am an experienced Flutter developer passionate about building mobile and desktop applications. I strive to create seamless user experiences with high-performance, modern design, and scalable code.
 
-## 💻 Ishlab chiqqan loyihalar
+## 💻 Projects I’ve Worked On
 ### 🕹️ [Flutter Music Player](https://github.com/mukhammadsodikh/flutter-music-player)
-- 🎧 Mobil va desktop uchun musiqiy ilova yaratdim, foydalanuvchilar musiqa kutubxonasidan oson foydalanishlari mumkin.
-- 🎶 Audio fayllarni qo'llab-quvvatlash va shaxsiy musiqalar ro'yxatini yaratish.
-- 🎛️ **GetX** orqali holatni boshqarish.
+- 🎧 A mobile and desktop music player app allowing users to manage their music library.
+- 🎶 Supports audio files and custom playlists.
+- 🎛️ **GetX** for state management and smooth navigation.
 
 ### 🖼️ [Wallpaper App](https://github.com/mukhammadsodikh/flutter-wallpaper-app)
-- 📱 Foydalanuvchilarga turli xil yuqori sifatli fon rasmlarini topish va o'rnatish imkonini beradigan ilova.
-- 🖼️ **wallpaper** paketidan foydalanib, foydalanuvchilarga o'z rasmlarini o'rnatish imkoniyati.
-- 🌍 Kengaytirilgan dizayn va intuitiv interfeys.
+- 📱 An app that allows users to discover and set high-quality wallpapers.
+- 🖼️ Integration with the **wallpaper** package to set custom wallpapers.
+- 🌍 A user-friendly design with intuitive navigation.
 
 ### 🔑 [POS System](https://github.com/mukhammadsodikh/flutter-pos-system)
-- 🛒 Desktop ilovasi, CEO, ombor menejeri va sotuvchi rollari uchun moslashtirilgan.
-- 💼 Inventarizatsiyani boshqarish va foydalanuvchi rollari bo'yicha ma'lumotlarni taqdim etish.
+- 🛒 A desktop app designed for CEO, warehouse manager, and salesperson roles.
+- 💼 Features inventory management, user roles, and real-time data.
+- 🖥️ Built with Flutter to ensure cross-platform compatibility.
 
 ### 🌍 [Translator App](https://github.com/mukhammadsodikh/flutter-translator-app)
-- 🌐 Zamonaviy UI yordamida turli tillar o'rtasida tarjima qilish imkoniyatini taqdim etadi.
-- 🗣️ **Google Translate API** bilan integratsiya.
-- ⚡ Eng yaxshi ishlash tezligi va foydalanuvchi tajribasi.
+- 🌐 A translation app with a modern UI for translating between multiple languages.
+- 🗣️ Integrated with **Google Translate API**.
+- ⚡ Optimized for performance and smooth user experience.
 
-## 🛠️ Texnologiyalar va Asboblar
-- **Flutter**: Mobil va desktop ilovalarini yaratishda foydalanaman.
-- **Dart**: Flutter ilovalarida asosiy dasturlash tili.
-- **Firebase**: Autentifikatsiya, real-time ma'lumotlar va boshqa xususiyatlar uchun.
-- **GetX**, **Provider**: Holatni boshqarish va navigatsiyani osonlashtirish.
-- **SQLite**: Mahalliy ma'lumotlar bazasi.
+## 🛠️ Technologies & Tools
+- **Flutter**: Primary framework for mobile and desktop app development.
+- **Dart**: Main programming language for Flutter applications.
+- **Firebase**: Authentication, real-time database, and more.
+- **GetX**, **Provider**: State management and navigation.
+- **SQLite**: Local database for offline storage.
 
-## 📈 Statistika
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhammadsodikh&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 📫 Mening bilan bog'lanish
+## 📫 How to Reach Me
 - 📧 Email: [mukhammadsodikh@example.com](mailto:mukhammadsodikh@example.com)
 - 💼 LinkedIn: [linkedin.com/in/mukhammadsodikh](https://linkedin.com/in/mukhammadsodikh)
 - 🌐 Website: [mukhammadsodikh.com](https://mukhammadsodikh.com)
 
-## 🎯 Kelajakdagi rejalari
-- 🚀 Foydalanuvchi tajribasini yaxshilash va ilovalarni optimallashtirish.
-- 🧠 Sun'iy intellekt va mashinaviy o'qitishni Flutter ilovalarida qo'llash.
-- 🔒 Xavfsizlikni ta'minlash va ma'lumotlarni himoya qilish.
+## 🎯 Future Plans
+- 🚀 Enhance user experience and optimize apps for better performance.
+- 🧠 Integrate AI and machine learning into Flutter apps.
+- 🔒 Focus on improving security and data protection in mobile apps.
 
-## 🎉 Qiziqarli faktlar
-- 💡 Har doim yangi texnologiyalarni o'rganishga qiziqaman.
-- 📚 Kitoblar va podkastlarga katta qiziqishim bor.
-- 🎮 Dasturlashdan tashqari, video o'yinlar o'ynashni yoqtiraman.
+## 🎉 Fun Facts
+- 💡 I’m always eager to learn new technologies and frameworks.
+- 📚 I have a strong interest in books and podcasts related to tech and innovation.
+- 🎮 Besides coding, I enjoy playing video games in my free time.
 
 ---
 
-> "Dasturlash – bu faqat kod yozish emas, balki muammolarni hal qilish san'ati."  
+> "Programming is not just about writing code, it’s about solving problems."  
 > — Mukhammad Sodikh
-
