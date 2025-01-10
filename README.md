@@ -1,15 +1,12 @@
-# Hello! I'm [Your Name]!
+# Hello! I'm [Sodiqjon]!
 
 ## Who Am I?
 I'm a developer passionate about learning various technologies and creating projects. My goal is to innovate and continuously enhance my skills in the programming realm.
 
 ## Technologies I Use
-- **Kotlin**
-- **Java**
 - **Flutter**
 - **Dart**
 - **Android**
-- **Compose Multiplatform**
 
 ## My Projects
 ### [Project Name](link_to_your_project)
