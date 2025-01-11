@@ -10,9 +10,9 @@
 
 ```dart
 class FlutterDeveloper {
-    final String name        = "Ibragimov Abdurahim";  
+    final String name        = "Maxammadjonov Sodiqjon";  
     final String location    = "Uzbekistan";
-    final String role        = "Middle Flutter Developer";
+    final String role        = "Junior Flutter Developer";
     
     final Map<String, List<String>> technicalSkills = {
         'main': [
