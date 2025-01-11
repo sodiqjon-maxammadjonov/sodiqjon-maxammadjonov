@@ -89,8 +89,8 @@ graph TD
 
 ## 📫 Let's Connect!
 - 💬 Telegram: [@your_telegram]
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your_linkedin_profile]
+- 📧 Email: sodiqjonmaxammadjonov83@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/sodiqjon-maxammadjonov-1784b3345/]
 
 ## 🚀 Current Focus
 - Exploring Advanced State Management
@@ -105,6 +105,6 @@ graph TD
 ![Profile Views](https://komarev.com/ghpvc/?username=sodiqjon-maxammadjonov&color=brightgreen)
 
 ---
-⭐️ From [your_name](https://github.com/your_github_username)
+⭐️ From [Sodiqjon](https://github.com/sodiqjon-maxammadjonov)
 
 </div>
