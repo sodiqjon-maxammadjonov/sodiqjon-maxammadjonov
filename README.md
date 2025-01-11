@@ -1,58 +1,62 @@
 <div align="center">
-  
-# 👋 Salom, Men Flutter Dasturchiman!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](sizning_linkedin_urlingiz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](sizning_twitter_urlingiz)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](sizning_medium_urlingiz)
+# Hi there! 👋 I'm Sodiqjon
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodiqjon-maxammadjonov-1784b3345/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](your_telegram_url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([your_github_url](https://github.com/sodiqjon-maxammadjonov))
 
 </div>
 
-## 🚀 Men Haqimda
-
 ```dart
-class Developer {
-  final String name = "Sizning ismingiz";
-  final String role = "Flutter Developer";
-  final List<String> languages = ["Dart", "Python", "JavaScript"];
-  
-  List<String> getArchitecturePrinciples() => [
-    "Clean Architecture",
-    "SOLID Principles",
-    "DRY (Don't Repeat Yourself)",
-    "KISS (Keep It Simple, Stupid)"
-  ];
+class FlutterDeveloper {
+    final String name        = "Ibragimov Abdurahim";  
+    final String location    = "Uzbekistan";
+    final String role        = "Middle Flutter Developer";
+    
+    final Map<String, List<String>> technicalSkills = {
+        'main': [
+            'Flutter', 'Dart', 'REST API',
+            'Firebase', 'SQLite', 'Provider'
+        ],
+        'architecture': [
+            'Clean Architecture',
+            'SOLID Principles',
+            'DRY & KISS Principles',
+            'BLoC Pattern'
+        ],
+        'tools': [
+            'Git', 'GitHub',
+            'VS Code', 'Android Studio',
+            'Postman', 'Jira'
+        ]
+    };
+
+    String get currentFocus => "Building scalable mobile applications";
 }
 ```
 
-## 💼 Tajriba
-- 4️⃣ ta loyihada faol ishtirok etish
-- 🏗️ Clean Architecture va SOLID prinsiplari asosida ishlayman
-- 🎯 Toza va samarali kod yozishga e'tibor qarataman
+## 🎯 Specialization
+- **Cross-platform Development** with Flutter
+- **Clean Architecture** implementation
+- **State Management** with BLoC/Provider
+- **API Integration** and Local Storage
+- **UI/UX** Implementation
 
-## 🛠 Texnologiyalar & Instrumentlar
+## 💻 Tech Stack
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-## 📊 GitHub Statistikasi
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sizning_github_username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=sizning_github_username&layout=compact&theme=radical)
-
-</div>
-
-## 🌟 Loyihalarim Arxitekturasi
+## 🌟 Project Architecture
 
 ```mermaid
 graph TD
@@ -67,21 +71,40 @@ graph TD
     style E fill:#FFC107
 ```
 
-## 📫 Bog'lanish uchun
-- 📧 Email: sizning@email.com
-- 💼 LinkedIn: sizning_linkedin_profilingiz
-- 🐦 Twitter: @sizning_twitter_profilingiz
-
-## 🎯 Mening Prinsipalarim
-- Clean Code yozish
-- SOLID prinsiplaridan foydalanish
-- DRY va KISS qoidalariga amal qilish
-- Doimiy o'rganish va rivojlanish
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 👨‍💻 Tashrif buyuruvchilar soni
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sodiqjon-maxammadjonov&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=sodiqjon-maxammadjonov&theme=tokyonight)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sizning_github_username.sizning_github_username)
+</div>
+
+## 💼 Professional Experience
+- 4+ Production Level Projects
+- Clean and Maintainable Code Architecture
+- Team Collaboration and Code Review
+- Performance Optimization
+- CI/CD Implementation
+
+## 📫 Let's Connect!
+- 💬 Telegram: [@your_telegram]
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [your_linkedin_profile]
+
+## 🚀 Current Focus
+- Exploring Advanced State Management
+- Implementing Clean Architecture
+- Enhancing App Performance
+- Learning Backend Development
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sodiqjon-maxammadjonov&color=brightgreen)
+
+---
+⭐️ From [your_name](https://github.com/your_github_username)
 
 </div>
