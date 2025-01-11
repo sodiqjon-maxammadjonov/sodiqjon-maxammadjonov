@@ -88,7 +88,7 @@ graph TD
 - CI/CD Implementation
 
 ## 📫 Let's Connect!
-- 💬 Telegram: [@your_telegram]
+- 💬 Telegram: [@smo_2803]
 - 📧 Email: sodiqjonmaxammadjonov83@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/sodiqjon-maxammadjonov-1784b3345/]
 
