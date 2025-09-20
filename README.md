@@ -101,6 +101,8 @@ class FlutterWizard extends Developer with AndroidMagic, CodeAlchemy {
 | 🏭 **Factory Manager** | Flutter + Firebase | Real business automation |  
 | 💰 **Expense Tracker** | Flutter + Provider | Financial organization magic |
 | 👟 **Shoe Store App** | Flutter + REST API | E-commerce enchantment |
+| 📊 **Debt Manager** | Flutter + Firebase | Personal finance tracking |
+| 📖 **Holy Quran** | Flutter + Audio | Islamic spiritual companion |
 
 </div>
 
@@ -142,7 +144,7 @@ class FlutterWizard extends Developer with AndroidMagic, CodeAlchemy {
 ## 🎪 THE FLUTTER JOURNEY
 
 ```
-📅 2023 ────────🦋────────🤖────────🔥────────✨────► 2024
+📅 2023 ────────🦋────────🤖────────🔥────────✨────► 2025
      │           │         │         │         │
      │           │         │         │         └── Jetpack Compose Master
      │           │         │         └────────── Clean Architecture Ninja  
@@ -226,10 +228,10 @@ FlutterMagicLevel myCurrentLevel = FlutterMagicLevel.wizard;
 ---
 
 📧 **Email:** sodiqjonmaxammadjonov83@gmail.com  
-💬 **Telegram:** [@your_handle] - *Let's chat about your next project!*  
+💬 **Telegram:** [@flutter_dev_nova] - *Let's chat about your next project!*  
 💼 **LinkedIn:** [Professional Network](your_linkedin)  
-📝 **Medium:** [Technical Articles](your_medium) - *Flutter tips & tricks*  
-🎥 **YouTube:** [Coding Tutorials](your_youtube) - *Subscribe for Flutter magic*
+📝 **Medium:** [Technical Articles](medium) - *Flutter tips & tricks*  
+🎥 **YouTube:** [Coding Tutorials](youtube) - *Subscribe for Flutter magic*
 
 ---
 
